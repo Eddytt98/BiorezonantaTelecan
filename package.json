@@ -1,0 +1,14 @@
+{
+  "name": "scio",
+  "version": "1.0.0",
+  "description": "Landing page for SCIO",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Eddy TT",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
